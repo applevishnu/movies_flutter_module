@@ -1,0 +1,38 @@
+{
+  "id": 550,
+  "results": [
+    {
+      "id": "639d5326be6d88007fcdb6f7",
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Behind the Scenes",
+      "key": "vimeo_123",
+      "site": "Vimeo",
+      "size": 1080,
+      "type": "Behind the Scenes",
+      "official": false
+    },
+    {
+      "id": "5c9298e80e0a267cd516834f",
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Teaser Trailer",
+      "key": "teaser_key_456",
+      "site": "YouTube",
+      "size": 720,
+      "type": "Teaser",
+      "official": true
+    },
+    {
+      "id": "533ec654c3a36854480003eb",
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Official Trailer",
+      "key": "dG91B3hHyIc",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "official": true
+    }
+  ]
+}
